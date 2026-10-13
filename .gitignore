@@ -1,0 +1,7 @@
+echo "__pycache__/" > .gitignore
+echo "build/" >> .gitignore
+echo "dist/" >> .gitignore
+echo "*.spec" >> .gitignore
+echo "*.exe" >> .gitignore
+echo "output.py" >> .gitignore
+echo ".vscode/" >> .gitignore
